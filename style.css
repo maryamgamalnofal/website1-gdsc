@@ -1,0 +1,197 @@
+.bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+  body{
+    margin: 0;
+  }
+.bar li {
+
+    float: right;
+    
+    
+  }
+  
+  .bar li a {
+    display: block;
+    padding: 9px;
+    text-decoration: none;
+    color: aliceblue;
+    
+  }
+  .bar img{
+    width: 100px;
+
+
+  }
+  .span{
+    padding-top: 150px;
+  }
+.pic6{
+  
+  width: 40%;
+  float: left;
+}
+   .bar{
+    text-align: center;
+    background-image:url(./bake.jpeg) ;
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+  margin-bottom: 30px;
+    }
+   
+   .b1{
+    background-color: chocolate;
+    border-color: chocolate;
+    width:8% ;
+    height: 5%;
+   }
+   .b2{
+    background-color: transparent;
+    border-color: chocolate;
+    width:9% ;
+    height: 12%;
+   }
+   
+   .second{
+ 
+    width: 100%;
+   }
+   .pic2{
+    float: left;
+    width: 40%;
+    margin-left: 30px;
+   }
+   .bar2{
+    text-align: center;
+   float: right;
+   width: 50%;
+   }
+   .third{
+    width: 100%;
+    background-color:lightgrey;
+   }
+   .pic3{
+    float: right;
+    width: 50%;
+   }
+   .bar3{
+    text-align: center;
+   float: left;
+    width: 50%;
+    
+   }
+   .clr{
+    clear: both;
+   }
+   .fourth{
+  
+    width: 100%;
+   }
+   .iframe{
+    float: right;
+    width: 50%;
+    
+   }
+   .bar4{
+    text-align: center;
+   float: left;
+    width: 50%;
+    
+   }
+  .fifth{
+    background-color:lightgray;
+  }
+   .bar5{
+    text-align: center;
+  background-color: lightgray;
+   }
+  
+  
+  .one{
+    float: left;
+    width: 32%;
+    background-color: lightgrey;
+    margin-right: 6px;
+    margin-left: 4px;
+  }
+  .two{
+    float: left;
+    width: 32%;
+    margin-left:10px; 
+    margin-right:15px;
+    background-color: lightgrey;
+    
+  }
+  .three{
+    float: left;
+    width: 32%;
+    background-color: lightgrey;
+  }
+  .last{
+    background-color: dimgrey;
+    width: 100%;
+    
+   
+  }
+  .about{
+  float: left;
+    width: 25%;
+    background-color: dimgrey;
+    
+  }
+  .name1{
+    float: left;
+    width: 25%;
+    background-color: dimgrey;
+    height: 100%;
+    
+  }
+  .name2{
+    float: left;
+    width: 25%;
+    background-color: dimgrey;
+    height: 100%;
+  }
+  .name3{
+    float: left;
+    width: 25%;
+    background-color: dimgrey;
+    height: 100%;
+  }
+.end{
+  text-align: center;
+  background-color:dimgrey;
+  
+
+}
+.end img{
+  width: 150px;
+}
+
+ .fa-brands{
+  margin-right: 10px;
+ }  
+.fa-solid{
+  margin-right: 10px;
+}
+.fa-regular{
+  margin-right: 10px;
+}
+.about p{
+  margin-left: 20px;
+}
+.about h3{
+  margin-left: 20px;
+}
+.name1 p{
+  margin-left: 20px;
+}
+.name1 h3{
+  margin-left: 20px;
+}
